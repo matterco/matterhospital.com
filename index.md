@@ -26,13 +26,13 @@ title: "Matter"
     <i>Why</i> do we keep patients in hospital when their outcomes are better at home?
   </p>
   <p class="mt-8">
-    <i>Why</i> is so much provider time wasted on things other than providing care?
+    <i>Why</i> are providers forced to waste so much time outside of providing care?
   </p>
   <p class="mt-8">
     <i>Why</i> do operating rooms sit empty on weekends while backlogs of patients grow?
   </p>
   <p class="mt-8">
-    <i>Why</i> do hospitals grow in size and complexity rather than growing out into their communities?
+    <i>Why</i> do hospitals grow up in size and complexity rather than growing out into their communities?
   </p>
   <p class="mt-8">
     <i>Why</i> doesn't the insitution learn as it matures?
