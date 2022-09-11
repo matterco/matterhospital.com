@@ -16,7 +16,7 @@ title: "Matter"
   </p>
   <p>
     It all stems from a system of care that hasn’t changed—not really—in over 100 years.
-    It's buckling under century old answers to critical questions.
+    Faced with fundamental questions, hospitals are buckling under century old answers.
     <!-- Questions with good answers a century ago lack modern answers. -->
     <!-- Sunk costs, inertia -->
     <!-- Century-old decisions are difficult to question, but that's exactly what we need to do. -->
@@ -30,36 +30,48 @@ title: "Matter"
     <i>Why</i> isn’t care provided consistently from patient to patient?
   </p>
   <p>
-    <i>Why</i> are patients kept in hospital when their outcomes are better at home?
+    <i>Why</i> are patients kept in hospital when outcomes are better at home?
   </p>
   <!-- <p>
        <i>Why</i> isn't discharing patients a top priority when their outcomes are better at home?
        </p> -->
+  <!-- <p>
+       <i>Why</i> do providers lose so much time outside of providing care?
+       </p> -->
+  <!-- <p>
+       <i>Why</i> do providers have to fight for time to provide care?
+       </p> -->
   <p>
-    <i>Why</i> must providers waste so much time outside of providing care?
+    <i>Why</i> is so little provider time spent providing care?
   </p>
   <p>
     <i>Why</i> do operating rooms sit empty on weekends while backlogs of patients grow?
   </p>
   <p>
-    <i>Why</i> do hospitals grow up in size and complexity rather than growing out into their communities?
+    <i>Why</i> do hospitals grow upwards in size and complexity rather than out into their communities?
   </p>
   <p>
-    <i>Why</i> doesn't the insitution learn as it matures?
+    <i>Why</i> does knowledge collect in siloes rather than lift the whole institution?
   </p>
   <p>
-    If we don’t do something bold, the system will break. There’s no magic software platform. AI will not save us. Half measures have failed again and again.
+    <i>Why</i> does becoming a care provider mean losing work/life balance?
+  </p>
+  <p>
+    If we don’t do something bold, the system will break. Software alone can't change it. AI will not save us. Half measures have failed again and again.
   </p>
   <p>
     But we can fix it.
   </p>
   <p>
-    The best time to reinvent the hospital was yesterday. The second best time is today.
+    The best time to reinvent the hospital was yesterday. The next best time is today.
   </p>
-  <p>
+  <p class="text-6xl">
     Matter.
   </p>
   <p>
+    A future for community hospitals.
+  </p>
+    <p>
     Inquires | Jobs
   </p>
   <footer class="text-sm mt-16">
