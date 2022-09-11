@@ -42,7 +42,7 @@ title: "Matter"
        <i>Why</i> do providers have to fight for time to provide care?
        </p> -->
   <p>
-    <i>Why</i> is so much provider time take away from providing care?
+    <i>Why</i> is so much provider time taken away from providing care?
   </p>
   <p>
     <i>Why</i> does becoming a care provider mean losing work/life balance?
@@ -60,7 +60,7 @@ title: "Matter"
     If we don’t do something bold, the system will break. Software alone cannot change the course. AI will not save us. Half measures have failed again and again.
   </p>
   <p>
-    But we can fix it.
+    But we can fix it. We can find new answers.
   </p>
   <p>
     The best time to reinvent the hospital was yesterday. The next best time is today.
@@ -68,7 +68,7 @@ title: "Matter"
   <p class="text-5xl">
     Matter.<br>
     <span class="text-4xl">
-      The new community hospital
+      The community hospital for our future.
       <!-- A future for community hospitals. -->
     </span>
   </p>
