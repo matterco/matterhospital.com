@@ -15,7 +15,7 @@ title: "Matter"
     Community hospitals are struggling to keep their doors open. Communities are losing access. Providers are burning out.
   </p>
   <p>
-    It all stems from a system of care that hasn’t changed—not really—in over 100 years.
+    It all stems from a system of care delivery that hasn’t changed—not really—in over 100 years.
     Faced with fundamental questions, hospitals are buckling under century old answers.
     <!-- Questions with good answers a century ago lack modern answers. -->
     <!-- Sunk costs, inertia -->
@@ -27,7 +27,7 @@ title: "Matter"
     <!-- (We've inherited...) -->
   </p>
   <p>
-    <i>Why</i> isn’t care provided consistently from patient to patient?
+    <i>Why</i> isn’t care provided consistently, from patient to patient?
   </p>
   <p>
     <i>Why</i> are patients kept in hospital when outcomes are better at home?
@@ -45,10 +45,10 @@ title: "Matter"
     <i>Why</i> is so much provider time taken away from providing care?
   </p>
   <p>
-    <i>Why</i> does becoming a care provider mean losing work/life balance?
+    <i>Why</i> is work/life balance so hard to achieve as a provider?
   </p>
   <p>
-    <i>Why</i> do operating rooms sit empty on weekends while patient backlogs grow?
+    <i>Why</i> do operating rooms sit empty on weekends as patient backlogs grow?
   </p>
   <p>
     <i>Why</i> does knowledge collect in siloes rather than lift the whole institution?
@@ -57,10 +57,10 @@ title: "Matter"
     <i>Why</i> do hospitals grow upwards in size and complexity rather than out into their communities?
   </p>
   <p>
-    If we don’t do something bold, the system will break. Software alone cannot change the course. AI will not save us. Half measures have failed again and again.
+    If we don’t do something bold, the system will break. Bolt-on software cannot change the course. AI will not save us. Half measures have failed again and again.
   </p>
   <p>
-    But we can fix it. We can find new answers.
+    But we can fix it. We can build new answers by working from the ground up.
   </p>
   <p>
     The best time to reinvent the hospital was yesterday. The next best time is today.
@@ -73,7 +73,8 @@ title: "Matter"
     </span>
   </p>
   <p>
-    Inquires | Jobs
+    <a class="underline" href="mailto:contact@matterhospital.com">Inquires</a> |
+    <a class="underline" href="#">Jobs</a>
   </p>
   <footer class="text-sm mt-16">
     © Matter, {{ 'now' | date: "%Y" }}
