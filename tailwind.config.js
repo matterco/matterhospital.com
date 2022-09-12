@@ -34,7 +34,11 @@ module.exports = {
         'unna': ['Unna'],
         'lora': ['Lora'],
         'roboto-serif': ['Roboto Serif'],
-        'times': ['Times']
+        'times': ['Times'],
+        'source-serif': ['Source Serif Pro'],
+        'crimson': ['Crimson Text'],
+        'newsreader': ['Newsreader'],
+        'times-now': ['Times Now']
       },
     },
   },
