@@ -9,25 +9,14 @@ title: "Matter"
     A crisis is a bold time
     to start a hospital.
   </h1>
-  <!-- <h2 class="text-6xl mt-8">
-       Matter is a new model of community hospital with an innovative approach to care aimed at sustainability.
-       </h2> -->
   <p>
-    Community hospitals are struggling to keep their doors open.
-    Communities are losing access.
+    Community hospitals are struggling to survive.
+    Access to care is disappearing.
     Providers are burning out.
   </p>
   <p>
     It all stems from a system of care delivery that hasn’t changed—not really—in over 100 years.
     Faced with fundamental questions, hospitals are buckling under century old answers.
-    <!-- Questions with good answers a century ago lack modern answers. -->
-    <!-- Sunk costs, inertia -->
-    <!-- Century-old decisions are difficult to question, but that's exactly what we need to do. -->
-    <!-- Hospitals are buckling under sunk costs and  -->
-    <!-- Decisions made a century ago have become difficult to question, let alone change. -->
-    <!-- Decisions made a century ago have become difficult to question as hospitals buckle under sunk costs. -->
-    <!-- Hospitals are buckling under reasons why that are obsolete. -->
-    <!-- (We've inherited...) -->
   </p>
   <p class="italic text-center">
     Why isn’t care provided consistently<br>
@@ -37,15 +26,6 @@ title: "Matter"
     Why are patients kept in hospital<br>
     when outcomes are better at home?
   </p>
-  <!-- <p class="italic text-center">
-       Why isn't discharing patients a top priority when their outcomes are better at home?
-       </p> -->
-  <!-- <p class="italic text-center">
-       Why do providers lose so much time outside of providing care?
-       </p> -->
-  <!-- <p class="italic text-center">
-       Why do providers have to fight for time to provide care?
-       </p> -->
   <p class="italic text-center">
     Why aren't providers empowered<br>
     to make efficient use of their time?
@@ -83,11 +63,10 @@ title: "Matter"
     </p>
     <p>
       The community hospital for our future.
-      <!-- A future for community hospitals. -->
     </p>
   </div>
   <p>
-    <a class="underline" href="#">Jobs</a> |
+    <!-- <a class="underline" href="#">Jobs</a> | -->
     <a class="underline" href="mailto:contact@matterhospital.com">Inquires</a>
   </p>
   <footer class="text-sm mt-16">
