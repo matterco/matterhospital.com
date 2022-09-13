@@ -11,7 +11,7 @@ title: "Matter"
   </h1>
   <p>
     Community hospitals are struggling to survive.
-    Access to care is disappearing.
+    Access to care is disap&shy;pearing.
     Providers are burning out.
   </p>
   <p>
