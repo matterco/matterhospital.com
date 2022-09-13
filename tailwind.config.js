@@ -12,7 +12,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        gray: colors.warmGray,
         seagreen: {
           100: '#e7f0ef',
           200: '#d8edeb',
