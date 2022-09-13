@@ -23,21 +23,6 @@ module.exports = {
         }
       },
       fontFamily: {
-        'amiri': ['Amiri'],
-        'oswald': ['Oswald'],
-        'work-sans': ['"Work Sans"'],
-        'dm-serif-display': ['"DM Serif Display"'],
-        'dm-serif-text': ['"DM Serif Text"'],
-        'liberata': ['Liberata'],
-        'noto-serif': ['Noto Serif'],
-        'spectral': ['Spectral'],
-        'unna': ['Unna'],
-        'lora': ['Lora'],
-        'roboto-serif': ['Roboto Serif'],
-        'times': ['Times'],
-        'source-serif': ['Source Serif Pro'],
-        'crimson': ['Crimson Text'],
-        'newsreader': ['Newsreader'],
         'times-now': ['Times Now']
       },
     },
