@@ -70,6 +70,6 @@ title: "Matter"
     <a class="underline" href="mailto:contact@matterhospital.com">Inquires</a>
   </p>
   <footer class="text-sm mt-16">
-    © Matter, {{ 'now' | date: "%Y" }}
+    © Matter Health LLC, {{ 'now' | date: "%Y" }}
   </footer>
 </div>
